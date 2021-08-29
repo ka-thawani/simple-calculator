@@ -15,5 +15,6 @@
       "Devdojo\\Calculator\\": "packages/devdojo/calculator/src"
     }
   },
-  "minimum-stability": "dev"
+  "minimum-stability": "dev",
+  "license": "MIT"
 }
