@@ -14,5 +14,6 @@
     "psr-4": {
       "Devdojo\\Calculator\\": "packages/devdojo/calculator/src"
     }
-  }
+  },
+  "minimum-stability": "dev"
 }
