@@ -1,6 +1,6 @@
 <?php
 
-namespace Devdojo\Calculator;
+namespace Khalfan\Calculator;
 
 use Illuminate\Support\ServiceProvider;
 
